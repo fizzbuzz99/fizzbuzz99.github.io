@@ -1,13 +1,13 @@
 ## Trade better. Decide Faster.
 
-# Platform
-Trading systems.
-Auctions.
-Analytics.
+### Platform
+- Trading systems.
+- Auctions.
+- Analytics.
 
-# Tools
-Market scanners.
-Visualization.
+### Tools
+- Market scanners.
+- Visualization.
 
-# Deployments
-AWS
+### Deployments
+- DigitalOcean
